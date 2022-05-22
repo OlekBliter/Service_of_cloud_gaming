@@ -656,6 +656,9 @@ body{
     .browser-page .right_part img{
         width: 160%;
     }
+    .roadmap-page{
+        height: 120vh;
+    }
     .roadmap{
         flex-direction: column;
     }
