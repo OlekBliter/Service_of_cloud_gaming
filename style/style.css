@@ -754,4 +754,7 @@ body{
     .logo h1{
         font-size: 20px;
     }
+    .main_content button{
+        margin: 0;
+    }
 }
