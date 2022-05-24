@@ -738,6 +738,11 @@ body{
         height: 150px;
     }
 }
+@media screen and (max-width: 400px) {   
+    .main_content button{
+        margin: 0;
+    }
+}
 @media screen and (max-width: 350px){
     .roadmap_item{
         width: 100px;
@@ -753,8 +758,5 @@ body{
     }
     .logo h1{
         font-size: 20px;
-    }
-    .main_content button{
-        margin: 0;
     }
 }
